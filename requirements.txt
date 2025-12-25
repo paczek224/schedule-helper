@@ -1,2 +1,5 @@
-fastapi
+fastapi~=0.127.0
 uvicorn[standard]
+requests~=2.32.4
+google-auth-oauthlib~=1.2.3
+google-api-python-client~=2.187.0
